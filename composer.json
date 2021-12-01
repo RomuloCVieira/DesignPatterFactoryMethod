@@ -1,0 +1,16 @@
+{
+    "name": "usuario/factory-methody",
+    "description": "Design Patters Factory Method",
+    "authors": [
+        {
+            "name": "RomuloCVieira",
+            "email": "romuloevil@outlook.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": { "FactoryMetody\\": "src/" }
+    },
+
+    "require": {}
+}
